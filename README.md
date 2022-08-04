@@ -1,5 +1,6 @@
 # GPG Public Key
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGLsJ+YBDADLMxA5Br8Rl6C9+1S9PHqmij+RLpCjBCXm4nwMGWgoA65e1alm
@@ -41,3 +42,4 @@ xSZpKTQa4X7f2SqEljLQ+zNQfFp4vI7+2u8DgH9aLRn/qhAPd5aX217IoJx3ZosQ
 U8tZPiZ+EwgRPBTBSvavR+jzC6I=
 =gye0
 -----END PGP PUBLIC KEY BLOCK-----
+```
